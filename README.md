@@ -1,3 +1,4 @@
 #Contribute here 
-#SITyay
-#CO component yay
+
+
+languages to be learnt in first year: java,c++, html ,css
